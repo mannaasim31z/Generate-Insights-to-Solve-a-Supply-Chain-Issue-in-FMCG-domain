@@ -5,5 +5,7 @@ AtliQ Mart is currently facing a problem where a few key customers did not exten
 
 Tasks
 Consider yourself as a junior supply chain analyst in the supply chain team who joined AtliQ Mart recently. He has been briefed about the the task in the stakeholder business review meeting. Now imagine yourself as supply chain analyst and play the role of the new supply chain analyst and perform the following tasks.
+
 a. Create the supply chain metrics.
+
 b. Create insights from the data and present to stakeholders.
