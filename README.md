@@ -9,3 +9,4 @@ Consider yourself as a junior supply chain analyst in the supply chain team who 
 a. Create the supply chain metrics.
 
 b. Create insights from the data and present to stakeholders.
+Click on the link for more detailed explanation : https://medium.com/@mail2asimmanna/generate-insights-to-solve-a-supply-chain-issue-in-fmcg-domain-97a7c9153e25
